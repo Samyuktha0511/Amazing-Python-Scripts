@@ -257,3 +257,8 @@ Button(root, text="EXIT", font='Times 14 bold', bg='dark gray',
 Button(root, text="RESET", font='Times 14 bold', bg='dark gray',
        command=RESET, width=8).place(x=320, y=280)
 root.mainloop()
+
+# minor change - test 
+# minor change 2
+# remote change 3
+# remote change 4 (scenario - before local commit )
