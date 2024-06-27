@@ -257,3 +257,5 @@ Button(root, text="EXIT", font='Times 14 bold', bg='dark gray',
 Button(root, text="RESET", font='Times 14 bold', bg='dark gray',
        command=RESET, width=8).place(x=320, y=280)
 root.mainloop()
+
+# minor change - test 
